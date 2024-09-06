@@ -28,6 +28,7 @@
         <module>paimon-java-api</module>
         <module>iceberg-java-api</module>
         <module>kafka</module>
+        <module>hbase-client</module>
     </modules>
 
     <properties>
