@@ -1,4 +1,0 @@
-aa,ff,ss
-ss,ff,ss
-aa,ff,ss
-ss,ff,ss
